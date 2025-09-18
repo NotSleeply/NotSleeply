@@ -26,4 +26,5 @@
 #### <div align="center"><a href="https://notSleeply.github.io/" target="_blank">Personal Blog Website</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=notSleeply&label=views-count)</div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact)
+
