@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
+</picture>
 
 #### <div align="center"><a href="https://notSleeply.github.io/" target="_blank">Personal Blog Website</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=notSleeply&label=views-count)</div>
