@@ -1,3 +1,5 @@
+# [NotSleeply.github.io](https://notsleeply.github.io)
+
 ## <div align="center">Hi! 👋 [I'm NotSleeply!](https://notsleeply.github.io)</div>
 
 ##### <div align="center">🇨🇳 China</div>
@@ -5,19 +7,31 @@
 #### <div align="center">A Full-Stack Engineer</div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
