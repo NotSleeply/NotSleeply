@@ -1,5 +1,3 @@
-# [NotSleeply.github.io](https://notsleeply.github.io)
-
 ## <div align="center">Hi! 👋 [I'm NotSleeply!](https://notsleeply.github.io)</div>
 
 ##### <div align="center">🇨🇳 China</div>
