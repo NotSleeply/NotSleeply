@@ -36,6 +36,17 @@
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white" alt="Gin">
   <img src="https://img.shields.io/badge/-GORM-00ADD8?style=flat&logo=go&logoColor=white" alt="GORM">
+  <img src="https://img.shields.io/badge/-Pinia-FFE066?style=flat&logo=pinia&logoColor=black" alt="Pinia">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router">
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white" alt="MUI">
+  <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui">
+  <img src="https://img.shields.io/badge/-AntV-00A0E9?style=flat&logo=antv&logoColor=white" alt="AntV">
+  <img src="https://img.shields.io/badge/-Ant_Design-1677FF?style=flat&logo=ant-design&logoColor=white" alt="Ant Design">
+  <img src="https://img.shields.io/badge/-UnoCSS-333333?style=flat&logo=unocss&logoColor=white" alt="UnoCSS">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
 </div>
 <!-- 第三行：工具 -->
 <div align="center">
@@ -58,6 +69,10 @@
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=onlyoffice&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=onlyoffice&logoColor=white" alt="PowerPoint">
   <img src="https://img.shields.io/badge/-1Panel-0854C1?style=flat&logo=1panel&logoColor=white" alt="1Panel">
+  <img src="https://img.shields.io/badge/-Apifox-FF6A6A?style=flat&logo=apifox&logoColor=white" alt="Apifox">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/-Cloud_Native_Buildpacks-F76945?style=flat&logo=cloudnativebuild&logoColor=white" alt="Cloud Native Buildpacks">
+  <img src="https://img.shields.io/badge/-Make-003B57?style=flat&logo=gnu&logoColor=white" alt="Make">
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
