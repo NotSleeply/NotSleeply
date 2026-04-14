@@ -87,10 +87,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <a href="https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" target="_blank" rel="noopener">
+        <img src="https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+      <br />
+      <sub><a href="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" target="_blank" rel="noopener">备用链接</a></sub>
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" target="_blank" rel="noopener">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
+      </a>
+      <br />
+      <sub><a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" target="_blank" rel="noopener">备用链接</a></sub>
     </td>
   </tr>
 </table>
