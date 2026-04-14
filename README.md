@@ -87,14 +87,10 @@
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" target="_blank" rel="noopener">
-        <img src="https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub 统计（来自 github-readme-stats，若不可用请点击查看）" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" />
     </td>
     <td>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" target="_blank" rel="noopener">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" alt="语言统计（来自 github-readme-stats，若不可用请点击查看）" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" />
     </td>
   </tr>
 </table>
