@@ -87,10 +87,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotSleeply&theme=default" alt="GitHub Stats" height="180em" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotSleeply&theme=default" alt="Repos per language" height="180em" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
