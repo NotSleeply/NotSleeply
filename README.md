@@ -1,5 +1,10 @@
 ## <div align="center">Hi! 👋 [I'm NotSleeply!](https://notsleeply.github.io)</div>
 
+<!-- 打字机动效 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I%27m%20NotSleeply!%3BCode%20is%20life.&center=true" alt="Typing SVG" />
+</div>
+
 ##### <div align="center">  <img src="https://img.shields.io/badge/-中文 CN-EB2F2F?style=flat&logoColor=white" alt="中文"></div>
 
 <!-- 第一行：语言 -->
@@ -37,3 +42,13 @@
     </td>
   </tr>
 </table>
+
+<!-- 全年活动热力图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=radical" alt="GitHub Activity Graph" />
+</div>
+
+<!-- 综合信息卡片 -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=radical" alt="GitHub Profile Summary" />
+</div>
