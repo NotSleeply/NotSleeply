@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </div>
 
+<!-- GitFut 球星卡 -->
+<div align="center">
+  <a href="https://gitfut.com/NotSleeply">
+    <img src="https://gitfut.com/NotSleeply.png" width="240" alt="GitFut Card" />
+  </a>
+</div>
+
+
 
 <!-- 综合信息卡片 -->
 <div align="center">
@@ -45,13 +53,6 @@
     </td>
   </tr>
 </table>
-
-<!-- GitFut 球星卡 -->
-<div align="center">
-  <a href="https://gitfut.com/NotSleeply">
-    <img src="https://gitfut.com/NotSleeply.png" width="240" alt="GitFut Card" />
-  </a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
