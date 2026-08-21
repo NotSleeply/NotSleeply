@@ -30,17 +30,21 @@
   </a>
 </div>
 
+<!-- GitAnimals 宠物农场 -->
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img src="https://render.gitanimals.org/farms/NotSleeply" width="420" alt="GitAnimals Farm" />
+  </a>
+</div>
 
+<!-- 连续贡献 -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=NotSleeply&theme=github-dark" alt="GitHub Streak" />
+</div>
 
 <!-- 综合信息卡片 -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=github_dark" alt="GitHub Profile Summary" />
-</div>
-
-
-<!-- 全年活动热力图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 <table>
@@ -54,16 +58,9 @@
   </tr>
 </table>
 
-<!-- 连续贡献 -->
+<!-- 全年活动热力图 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NotSleeply&theme=github-dark" alt="GitHub Streak" />
-</div>
-
-<!-- GitAnimals 宠物农场 -->
-<div align="center">
-  <a href="https://www.gitanimals.org/">
-    <img src="https://render.gitanimals.org/farms/NotSleeply" width="420" alt="GitAnimals Farm" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 <picture>
