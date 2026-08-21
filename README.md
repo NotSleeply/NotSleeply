@@ -54,6 +54,15 @@
   </tr>
 </table>
 
+<!-- 任务平台入口 -->
+<div align="center">
+  <a href="https://gitquest.is-a.software/NotSleeply"><img src="https://img.shields.io/badge/-GitQuest%20RPG-7C3AED?style=flat" alt="GitQuest"></a>
+  <a href="https://commit.party"><img src="https://img.shields.io/badge/-CommitParty-EC4899?style=flat" alt="CommitParty"></a>
+  <a href="https://quine.sh"><img src="https://img.shields.io/badge/-Quine-22C55E?style=flat" alt="Quine"></a>
+  <a href="https://algora.io"><img src="https://img.shields.io/badge/-Algora-F59E0B?style=flat" alt="Algora"></a>
+  <a href="https://hacktoberfest.com"><img src="https://img.shields.io/badge/-Hacktoberfest-FF6F00?style=flat" alt="Hacktoberfest"></a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
