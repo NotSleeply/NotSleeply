@@ -54,11 +54,9 @@
   </tr>
 </table>
 
-<!-- GitQuest RPG 面板 -->
+<!-- 连续贡献 -->
 <div align="center">
-  <a href="https://gitquest.is-a.software/NotSleeply">
-    <img src="https://gitquest.is-a.software/api/widget/NotSleeply" width="200" alt="GitQuest RPG" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=NotSleeply&theme=github-dark" alt="GitHub Streak" />
 </div>
 
 <!-- GitAnimals 宠物农场 -->
