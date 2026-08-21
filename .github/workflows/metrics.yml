@@ -13,6 +13,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # 基础信息（顺带几个小插件）
       - name: base
@@ -26,8 +28,6 @@ jobs:
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
-          # 此插件为文档中的 🧮 Repositories traffic
-          plugin_traffic: yes
           # 此插件为文档中的 👨‍💻 Lines of code changed
           plugin_lines: yes
           # 此插件为文档中的 🙋 Introduction
