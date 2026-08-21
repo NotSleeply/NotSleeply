@@ -23,6 +23,21 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </div>
 
+<!-- 动效技术图标 -->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+</div>
+
+<!-- 每日名言与冷笑话 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Random Joke" width="300" />
+</div>
+
 <!-- GitFut 球星卡 -->
 <div align="center">
   <a href="https://gitfut.com/NotSleeply">
@@ -61,6 +76,20 @@
 <!-- 全年活动热力图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=github-dark" alt="GitHub Activity Graph" />
+</div>
+
+<!-- GitHub Metrics 数据大卡（自托管，每天自动更新） -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/NotSleeply/NotSleeply/github-metrics/base.svg" alt="Metrics Base" />
+</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/NotSleeply/NotSleeply/github-metrics/isocalendar.fullyear.svg" alt="Metrics Isocalendar" />
+</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/NotSleeply/NotSleeply/github-metrics/languages.indepth.svg" alt="Metrics Languages" />
+</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/NotSleeply/NotSleeply/github-metrics/stargazers.chartist.svg" alt="Metrics Stargazers" />
 </div>
 
 <picture>
