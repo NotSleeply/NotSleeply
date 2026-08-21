@@ -38,7 +38,7 @@
       <img src="https://github-readme-stats.shion.dev/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
