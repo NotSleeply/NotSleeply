@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
