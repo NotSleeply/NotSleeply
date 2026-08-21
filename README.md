@@ -26,22 +26,22 @@
 
 <!-- 综合信息卡片 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 
 <!-- 全年活动热力图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=github-dark" alt="GitHub Activity Graph" />
 </div>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=NotSleeply&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=NotSleeply&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact&theme=dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
