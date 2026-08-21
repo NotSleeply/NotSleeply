@@ -22,15 +22,18 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
-  <img alt="Breakout Game" src="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
-</picture>
 
-#### <div align="center"><a href="https://notSleeply.github.io/" target="_blank">Personal Blog Website</a></div>
 
-#### <div align="center">![](https://komarev.com/ghpvc/?username=notSleeply&label=views-count)</div>
+<!-- 综合信息卡片 -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+
+<!-- 全年活动热力图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=radical" alt="GitHub Activity Graph" />
+</div>
 
 <table>
   <tr>
@@ -43,12 +46,12 @@
   </tr>
 </table>
 
-<!-- 全年活动热力图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotSleeply&theme=radical" alt="GitHub Activity Graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
+</picture>
 
-<!-- 综合信息卡片 -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=radical" alt="GitHub Profile Summary" />
-</div>
+#### <div align="center"><a href="https://notSleeply.github.io/" target="_blank">Personal Blog Website</a></div>
+
+#### <div align="center">![](https://komarev.com/ghpvc/?username=notSleeply&label=views-count)</div>
