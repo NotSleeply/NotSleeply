@@ -46,6 +46,13 @@
   </tr>
 </table>
 
+<!-- GitFut 球星卡 -->
+<div align="center">
+  <a href="https://gitfut.com/NotSleeply">
+    <img src="https://gitfut.com/NotSleeply.png" width="240" alt="GitFut Card" />
+  </a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
