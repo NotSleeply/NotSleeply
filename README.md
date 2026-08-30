@@ -46,7 +46,7 @@
 
 <!-- 连续贡献 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NotSleeply&theme=github-dark" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <!-- 综合信息卡片 -->
@@ -60,7 +60,7 @@
       <img src="https://github-readme-stats.shion.dev/api?username=NotSleeply&show_icons=true&theme=dark" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NotSleeply&layout=compact&theme=dark" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com/?user=NotSleeply&theme=github-dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
