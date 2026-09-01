@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://notsleeply.github.io">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I%27m+NotSleeply!+%F0%9F%91%8B+%3BClick+to+enter+my+portfolio.&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I%27m+NotSleeply!+%F0%9F%91%8B+%3BClick+to+enter+my+portfolio!+%F0%9F%91%88&center=true" alt="Typing SVG" />
   </a>
 </h1>
 
