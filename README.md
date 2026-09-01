@@ -59,6 +59,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game" src="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
 </picture>
-
-#### <div align="center"><a href="https://notSleeply.github.io/" target="_blank">Personal Blog Website</a></div>
-
