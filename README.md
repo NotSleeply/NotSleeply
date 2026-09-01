@@ -6,23 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-中文 CN-EB2F2F?style=flat&logoColor=white" alt="中文">
-
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Golang">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=notSleeply&label=views-count" alt="views-count">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </div>
 
 <!-- GitFut 球星卡 -->
@@ -32,12 +17,10 @@
   </a>
 </div>
 
-
 <!-- 综合信息卡片 -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
-
 
 <!-- GitHub 统计与常用语言 -->
 <div align="center">
@@ -53,9 +36,12 @@
   </table>
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game" src="https://github.com/NotSleeply/NotSleeply/raw/github-breakout/images/breakout-light.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=notSleeply&label=views-count" alt="views-count">
+</div>
