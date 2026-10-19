@@ -17,6 +17,15 @@
   </a>
 </div>
 
+<!-- ghfind -->
+<div align="center">
+<a href="https://ghfind.com/u/notsleeply?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/notsleeply?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/notsleeply?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+</div>
 <!-- 综合信息卡片 -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotSleeply&theme=github_dark" alt="GitHub Profile Summary" />
